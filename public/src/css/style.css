@@ -1,0 +1,50 @@
+
+
+
+/* Elements */
+
+header  {
+    height: 80px;
+    box-shadow: 0 0 8px 8px rgba(0, 0, 0, 0.1);
+}
+
+aside   {
+    width: 60px;
+    height: 32em;
+}
+
+main    {
+    margin-top: -500px;
+    margin-left: 150px;
+}
+/* Clases */
+
+.logo   {
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 15em;
+    font-family: Papyrus;
+}
+
+.aside ul   {
+    margin-top: 90px;
+    margin-left: 30px;
+    padding: 0;
+    list-style-type: none;
+}
+.aside li    {
+    padding: 12px 20px;
+}
+.aside i    {
+    color: #000;
+    font-size: 30px;
+}
+body[data-bs-theme="dark"] aside i {
+    color: white;
+}
+.aside i:hover  {
+    color: #504e4e;
+}
+
+
+

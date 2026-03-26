@@ -12,7 +12,6 @@
   "bugs": {
     "url": "https://github.com/somemorewater/waterBlog/issues"
   },
-  "homepage": "https://github.com/somemorewater/waterBlog#readme",
   "description": "",
   "dependencies": {
     "bootstrap": "^5.3.7",
